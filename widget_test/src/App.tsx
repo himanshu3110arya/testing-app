@@ -1,4 +1,4 @@
-// import './App.css'
+import './App.css'
 import { BillingWidget } from "@algorizz/billing-widget";
 
 function App() {

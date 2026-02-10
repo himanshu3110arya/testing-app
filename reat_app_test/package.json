@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@algorizz/billing-widget": "git+ssh://git@github.com/Algorizz/algorizz-billing-widget.git#v0.1.10",
+    "@algorizz/billing-widget": "git+ssh://git@github.com/Algorizz/algorizz-billing-widget.git#v0.1.11",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
